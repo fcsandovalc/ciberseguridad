@@ -1,3 +1,56 @@
-.navbar{
-    background-color:darkslategrey;
+
+html {
+    scroll-behavior: smooth;
 }
+
+.navbar {
+    background-color: darkslategrey;
+}
+.custom-link{
+    color: white;
+}
+.custom-link:hover {
+    color: yellow;
+}
+
+.fondo-texto-1{
+    background-image: url("/assets/img/1.png");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+
+}
+
+.foto-2{
+    width: 500px;
+
+}
+
+.texto-1{
+    text-align: justify;
+}
+
+footer{
+    background-color: #263e3c;
+}
+
+.fondo-texto-2{
+    background-image: url("/assets/img/3.png");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+
+.card{
+    width: 16rem;
+
+}
+
+.card-image-top{
+    height: 300px;
+}
+
+#carouselExample{
+    height: 300px;
+}
+
