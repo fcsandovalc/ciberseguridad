@@ -53,7 +53,7 @@ footer {
     height: 200px;
 }
 
-.card {
+.card-1 {
     width: 16rem;
 
 }
@@ -72,4 +72,35 @@ blockquote p {
 
 .carrusel {
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.fondo-texto-3{
+    background-image: url("/assets/img/4.png");
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+}
+
+.texto-3{
+    text-align: justify;
+}
+
+.list-group-item{
+    border: 0;
+}
+
+.card-2{
+    width: 30rem;
+}
+
+.fondo-modal-1{
+    width: 500px;
+}
+
+.btn-modal-1{
+    color: sandybrown;
+}
+
+.btn-modal-1:hover{
+    color:blueviolet;
 }
