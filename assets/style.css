@@ -97,10 +97,10 @@ blockquote p {
     width: 500px;
 }
 
-.btn-modal-1{
-    color: sandybrown;
+.btn-modal-2{
+    color: rgb(244, 81, 56);
 }
 
-.btn-modal-1:hover{
+.btn-modal-2:hover{
     color:blueviolet;
 }
