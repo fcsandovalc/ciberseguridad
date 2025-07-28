@@ -1,25 +1,7 @@
-Deberás diseñar un sitio web de tres páginas con el siguiente contenido:
+Página sobre Ciberseguridad que consta de tres partes:
 
-Inicio
+1.Página de inicio, con una introducción a la ciberseguridad, imagenes y mensajes.
 
-Introducción a la ciberseguridad.
+2. Página de amenazas comunes, con información sobre ataques cibernéticos como Ransomware, Cryptojacking y Smishing a través de modales. Además de un elemento carrusel con ejemplos de testimonios.
 
-Barra de navegación con enlaces a las demás secciones.
-
-Imagen destacada con un mensaje llamativo.
-
-Amenazas Comunes
-
-Información sobre ataques cibernéticos como phishing, ransomware, malware y ataques DDoS.
-
-Uso de tarjetas o secciones interactivas para cada tipo de amenaza.
-
-Un carrusel o acordeón con ejemplos de casos reales.
-
-Consejos de Seguridad
-
-Lista de buenas prácticas para protegerse en línea.
-
-Formulario de contacto para solicitar más información (con validación en JavaScript).
-
-Un modal con un "test de seguridad" donde el usuario pueda responder preguntas básicas y recibir retroalimentación.
+3. Página de consejos de seguridad, indicando buenas prácticas para protegerse en línea. Formulario de contacto para solicitar más información y un modal con un "test de seguridad" donde el usuario pueda responder preguntas básicas y recibir retroalimentación.
