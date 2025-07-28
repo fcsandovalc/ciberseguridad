@@ -104,3 +104,7 @@ blockquote p {
 .btn-modal-2:hover{
     color:blueviolet;
 }
+
+.oculto{
+    display: none;
+}
