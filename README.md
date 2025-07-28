@@ -1,7 +1,24 @@
-Página sobre Ciberseguridad que consta de tres partes:
+# Página sobre Ciberseguridad
 
-1.Página de inicio, con una introducción a la ciberseguridad, imagenes y mensajes.
+Este proyecto es una página web básica diseñada para informar sobre ciberseguridad, sus amenazas comunes y consejos prácticos para mantenerse seguro en línea.
 
-2. Página de amenazas comunes, con información sobre ataques cibernéticos como Ransomware, Cryptojacking y Smishing a través de modales. Además de un elemento carrusel con ejemplos de testimonios.
+##  Contenido del sitio
 
-3. Página de consejos de seguridad, indicando buenas prácticas para protegerse en línea. Formulario de contacto para solicitar más información y un modal con un "test de seguridad" donde el usuario pueda responder preguntas básicas y recibir retroalimentación.
+## Página de Inicio
+- Introducción a la ciberseguridad
+- Imágenes y mensajes.
+
+### 2. Página de Amenazas Comunes
+- Información sobre ataques cibernéticos como:
+  - Ransomware
+  - Cryptojacking
+  - Smishing
+- Secciones interactivas con modales para mas información
+- Carrusel con testimonios.
+
+### 3. Página de Consejos de Seguridad
+- Lista de buenas prácticas para proteger tus datos en línea
+- Formulario de contacto para solicitar más información
+- Modal con un test interactivo de seguridad digital
+
+---
